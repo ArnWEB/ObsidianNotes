@@ -1,0 +1,5 @@
+ - [ ] Raft Consencus
+- [x] Write ahead log
+- [ ] Encryption in etcd
+- [ ] Protobuff Protcol
+- [ ] Odd number of Nodes for high scalibilty
