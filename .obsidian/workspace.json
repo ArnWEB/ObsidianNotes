@@ -11,11 +11,28 @@
             "id": "e3e66403cb2dec5e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "VoterCard/2024-05-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6213b001d1e1f50e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM Fintunig/Basics of fine tunning of llm models.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LLM Fintunig/Basics of fine tunning of llm models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LLM Fintunig/Basics of fine tunning of llm models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LLM Fintunig/Basics of fine tunning of llm models.md"
+              }
             }
           }
         ]
@@ -138,13 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3e66403cb2dec5e",
+  "active": "6213b001d1e1f50e",
   "lastOpenFiles": [
-    "2024-05-19.md",
-    "Keda Auto Scaler/agent_deployment.yaml.md",
+    "LLM Fintunig/Weights.md",
+    "LLM Fintunig/Basics of fine tunning of llm models.md",
+    "LLM Fintunig/Backpropegation.md",
+    "LLM Fintunig/LLM Parameters.md",
     "Kubernetes/Write-Ahead-Log.md",
+    "LLM Fintunig",
     "Kubernetes/Kuberentes Misc.md",
     "Linkedin Content idea/Content for this week.md",
+    "VoterCard/2024-05-19.md",
+    "GIthub/Github.md",
+    "VoterCard",
+    "Keda Auto Scaler/agent_deployment.yaml.md",
+    "GIthub",
     "Keda Auto Scaler",
     "Untitled.canvas",
     "Untitled.md",

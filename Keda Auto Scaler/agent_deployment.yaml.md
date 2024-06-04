@@ -1,4 +1,4 @@
-
+```yaml
 apiVersion: v1
 kind: Namespace
 metadata:
@@ -6,3 +6,4 @@ metadata:
 ---
 apiVersion: v1
 data: 
+```
