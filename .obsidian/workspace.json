@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Fintunig/Basics of fine tunning of llm models.md",
+                "file": "GIthub/Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM Fintunig/Basics of fine tunning of llm models.md",
+                "file": "GIthub/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM Fintunig/Basics of fine tunning of llm models.md",
+                "file": "GIthub/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM Fintunig/Basics of fine tunning of llm models.md"
+                "file": "GIthub/Github.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "6213b001d1e1f50e",
   "lastOpenFiles": [
-    "LLM Fintunig/Weights.md",
     "LLM Fintunig/Basics of fine tunning of llm models.md",
+    "LLM Fintunig/Weights.md",
     "LLM Fintunig/Backpropegation.md",
     "LLM Fintunig/LLM Parameters.md",
     "Kubernetes/Write-Ahead-Log.md",
