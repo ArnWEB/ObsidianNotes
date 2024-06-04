@@ -1,7 +1,7 @@
 ***UserName***
 ArnWEB
 ***Password***
-pass=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
+
 
 
 ***Push Commands for existing repository***
