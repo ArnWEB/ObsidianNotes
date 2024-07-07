@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Question By Topic/Kubernetes/Questions.md",
+                "file": "GIthub/Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Question By Topic/Kubernetes/Questions.md",
+                "file": "GIthub/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Question By Topic/Kubernetes/Questions.md",
+                "file": "GIthub/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Question By Topic/Kubernetes/Questions.md"
+                "file": "GIthub/Github.md"
               }
             }
           }
@@ -209,10 +209,10 @@
   },
   "active": "c1a2f9ec11bb05c2",
   "lastOpenFiles": [
+    "Interview Question By Topic/Kubernetes/Questions.md",
     "Interview Question By Topic/Kubernetes/Taint and Toleration.md",
     "GIthub/Github.md",
     "Hugging Face/Credentials.md",
-    "Interview Question By Topic/Kubernetes/Questions.md",
     "Interview Question By Topic/Kubernetes/Node Selectors.md",
     "Kubernetes/PVC AUTHN AUTHZ RBAC.md",
     "LInux.md",
