@@ -25,14 +25,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIthub/Github.md",
+                "file": "VoterCard/2024-05-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b2c7a31155c53a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Question By Topic/Kubernetes/Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28bdb0965729abff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/PVC AUTHN AUTHZ RBAC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27315598a8a80728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LInux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1a2f9ec11bb05c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Question By Topic/Kubernetes/Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIthub/Github.md",
+                "file": "Interview Question By Topic/Kubernetes/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIthub/Github.md",
+                "file": "Interview Question By Topic/Kubernetes/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIthub/Github.md"
+                "file": "Interview Question By Topic/Kubernetes/Questions.md"
               }
             }
           }
@@ -159,25 +207,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6213b001d1e1f50e",
+  "active": "c1a2f9ec11bb05c2",
   "lastOpenFiles": [
-    "LLM Fintunig/Basics of fine tunning of llm models.md",
-    "LLM Fintunig/Weights.md",
+    "Interview Question By Topic/Kubernetes/Taint and Toleration.md",
+    "Interview Question By Topic/Kubernetes/Questions.md",
+    "Interview Question By Topic/Kubernetes/Node Selectors.md",
+    "Kubernetes/PVC AUTHN AUTHZ RBAC.md",
+    "LInux.md",
+    "VoterCard/2024-05-19.md",
+    "Kubernetes/Untitled.md",
+    "Interview Question By Topic/DEVOPS SRE QUESTION/TCP and UDP.md",
+    "Interview Question By Topic/DEVOPS SRE QUESTION/NAT and TCP connectio state.md",
+    "Interview Question By Topic/DEVOPS SRE QUESTION/Control flow and Congestion Control.md",
+    "Interview Question By Topic/DEVOPS SRE QUESTION/What is TCP 3 Way Handshake Process.md",
+    "Hugging Face/Credentials.md",
+    "Interview Question By Topic/Kubernetes",
     "LLM Fintunig/Backpropegation.md",
+    "Interview Question By Topic/DEVOPS SRE QUESTION",
+    "Interview Question By Topic",
     "LLM Fintunig/LLM Parameters.md",
+    "LLM Fintunig/Basics of fine tunning of llm models.md",
+    "Resume Building/Templater from ChatGPT.md",
+    "Resume Building/Untitled.md",
+    "Resume Building",
+    "Keda Auto Scaler/agent_deployment.yaml.md",
+    "LLM Fintunig/Weights.md",
+    "Hugging Face",
+    "GIthub/Github.md",
     "Kubernetes/Write-Ahead-Log.md",
     "LLM Fintunig",
     "Kubernetes/Kuberentes Misc.md",
     "Linkedin Content idea/Content for this week.md",
-    "VoterCard/2024-05-19.md",
-    "GIthub/Github.md",
     "VoterCard",
-    "Keda Auto Scaler/agent_deployment.yaml.md",
     "GIthub",
     "Keda Auto Scaler",
     "Untitled.canvas",
-    "Untitled.md",
-    "Linkedin Content idea",
-    "Kubernetes"
+    "Linkedin Content idea"
   ]
 }
